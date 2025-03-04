@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "suyuan Liu(刘溯源)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D student at National University of Defense and Technology."
 repository               : "Tracesource/suyuanliu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "suyuan Liu(刘溯源)"
+  avatar           : "images/avatar.jpg"
+  bio              : "PRMI Lab"
+  location         : "ChangSha, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "suyuanliu@nudt.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Suyuan-Liu-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Tracesource"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/227/5361.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
