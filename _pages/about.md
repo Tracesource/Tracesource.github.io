@@ -16,5 +16,5 @@ redirect_from:
 {% include_relative components/intro.md %}
 {% include_relative components/news.md %}
 {% include_relative components/pub.md %}
-{% include_relative include/honors.md %}
-{% include_relative include/edu.md %}
+{% include_relative components/honors.md %}
+{% include_relative components/edu.md %}
