@@ -19,4 +19,4 @@ redirect_from:
 
 {% include_relative include/pub.md %}
 
-{% include_relative include/edu.md %}
+{% include_relative include/ser.md %}
