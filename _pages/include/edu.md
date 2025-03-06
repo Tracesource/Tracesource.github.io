@@ -1,5 +1,5 @@
- Educations
- ======
+Educations
+======
 <ul>
     <li> 
       <p>[Jan 2023 - Now] Doctor, National University of Defense Technology, Changsha, China </p>
