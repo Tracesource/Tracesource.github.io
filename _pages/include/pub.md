@@ -63,7 +63,7 @@ Journals
   </li>
 </ul> 
 
-Conferences:
+Conferences
 ---
 <ul>
   <li> 
