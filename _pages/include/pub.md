@@ -67,19 +67,19 @@ Conferences:
 ---
 <ul>
   <li> 
-      <p align = "justify"> Zhibin Dong, Siwei Wang, Meng Liu, Ke Liang, Yi Zhang, <b>Suyuan Liu</b>, Jiaqi Jin, Xinwang Liu, En Zhu. Enhanced then Progressive Fusion with View Graph for Multi-View Clustering. <font color="#2818200">Proceedings of the Thirty-Seventh IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</font>, 2025. (CCF Rank A) [<a href="https://neurips.cc/virtual/2024/poster/96633">Paper</a>] </p>
+      <p align = "justify"> Zhibin Dong, Siwei Wang, Meng Liu, Ke Liang, Yi Zhang, <b>Suyuan Liu</b>, Jiaqi Jin, Xinwang Liu, En Zhu. Enhanced then Progressive Fusion with View Graph for Multi-View Clustering. <font color="#2818200">Proceedings of the Thirty-Seventh IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</font>, 2025. (CCF Rank A) </p>
   </li>
 </ul> 
 
 <ul>
   <li> 
-      <p align = "justify"> Baili xiao, Zhibin Dong, Ke Liang, <b>Suyuan Liu</b>, Siwei Wang, Tianrui Liu, Xingchen Hu, En Zhu, Xinwang Liu, En Zhu. EEASEMVC: Efficient Dual Selection Mechanism for Deep Multi-View Clustering. <font color="#2818200">Proceedings of the Thirty-Seventh IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</font>, 2025. (CCF Rank A) [<a href="https://neurips.cc/virtual/2024/poster/96633">Paper</a>] </p>
+      <p align = "justify"> Baili xiao, Zhibin Dong, Ke Liang, <b>Suyuan Liu</b>, Siwei Wang, Tianrui Liu, Xingchen Hu, En Zhu, Xinwang Liu, En Zhu. EEASEMVC: Efficient Dual Selection Mechanism for Deep Multi-View Clustering. <font color="#2818200">Proceedings of the Thirty-Seventh IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</font>, 2025. (CCF Rank A) </p>
   </li>
 </ul> 
 
 <ul>
   <li> 
-      <p align = "justify"> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, <b>Suyuan Liu</b>, Qian Qu, Renxiang Guan, Huiying Xu, Xinwang Liu. Incremental Nyström-based Multiple Kernel Clustering. <font color="#2818200">Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</font>, 2025. (CCF Rank A) [<a href="https://neurips.cc/virtual/2024/poster/96633">Paper</a>] </p>
+      <p align = "justify"> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, <b>Suyuan Liu</b>, Qian Qu, Renxiang Guan, Huiying Xu, Xinwang Liu. Incremental Nyström-based Multiple Kernel Clustering. <font color="#2818200">Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</font>, 2025. (CCF Rank A) </p>
   </li>
 </ul> 
 
