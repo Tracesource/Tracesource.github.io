@@ -1,3 +1,17 @@
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ Educations
+ ======
+<ul>
+    <li> 
+      <p>[Jan 2023 - Now]. Doctor, National University of Defense Technology, Changsha, China </p>
+    </li>
+  </ul>
+  <ul>
+    <li> 
+      <p>[Sep 2020 - Dec 2022]. Master, National University of Defense Technology, Changsha, China </p>
+    </li>
+  </ul>
+<ul>
+    <li> 
+      <p>[Sep 2016 - Jul 2020]. Bachelor, National University of Defense Technology, Changsha, China </p>
+    </li>
+  </ul>
