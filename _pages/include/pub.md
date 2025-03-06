@@ -1,7 +1,7 @@
-### Publications
+Publications
 ======
 
-### Journals
+Journals
 ------
 <ul>
     <li> 
@@ -63,7 +63,7 @@
   </li>
 </ul> 
 
-### Conferences:
+Conferences:
 ---
 <ul>
   <li> 
