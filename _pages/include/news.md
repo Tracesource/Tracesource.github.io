@@ -1,4 +1,4 @@
-# News
+News
 ======
 - **[<font color="#FF0000">2025.02</font>]**  Two paper have been accepted by CVPR 2025.
 - **[<font color="#FF0000">2025.02</font>]**  One paper has been accepted by ICDE Poster Track.
