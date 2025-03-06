@@ -17,5 +17,3 @@
 - **[<font color="#FF0000">2022.09</font>]**  One paper has been accepted by NeurIPS 2022.
 - **[<font color="#FF0000">2021.12</font>]**  One paper has been accepted by AAAI 2022.
 
-- 
-
