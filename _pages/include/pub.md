@@ -1,11 +1,70 @@
 ### Publications
-### 2024
+======
+
+### Journals
+------
 <ul>
     <li> 
       <p align = "justify"> Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>, Wenxuan Tu, and En Zhu. Scalable and Structural Multi-view Graph Clustering with Adaptive Anchor Fusion. IEEE Transactions on Image Processing (TIP). <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10643455">Paper</a>], [<a href="https://github.com/wangsiwei2010/SMVAGC-SF">Code</a>] </p>
     </li>
 </ul>
 
+<ul>
+    <li> 
+      <p align = "justify"> Jun Wang, Zhenglai Li, Chang Tang, <b>Suyuan Liu</b>, Xinhang Wan, and Xinwang Liu. Multiple Kernel Clustering with Adaptive Multi-scale Partition Selection. IEEE Transactions on Knowledge and Data Engineering (TKDE). <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10529609">Paper</a>], [<a href="https://github.com/WangJun2023/MPS">Code</a>] </p>
+    </li>
+</ul>
+
+<ul>
+    <li> 
+      <p align = "justify"> Huimin Ma, Siwei Wang, Junpu Zhang, Shengju Yu, <b>Suyuan Liu</b>, Xinwang Liu, and Kunlun He. Symmetric Multi-view Subspace Clustering with Automatic Neighbor Discovery. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10508192/">Paper</a>] </p>
+    </li>
+</ul>
+
+<ul>
+    <li> 
+      <p align = "justify"> <b>Suyuan Liu</b>, Qing Liao, Siwei Wang, Xinwang Liu, and En Zhu. Robust and Consistent Anchor Graph Learning for Multi-view Clustering. IEEE Transactions on Knowledge and Data Engineering (TKDE). <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10440580/">Paper</a>], [<a href="https://github.com/Tracesource/RCAGL">Code</a>] </p>
+    </li>
+</ul>
+
+<ul>
+  <li> 
+      <p align = "justify"> Shengju Yu, <b>Suyuan Liu</b>, Siwei Wang, Chang Tang, Zhigang Luo, and Xinwang Liu. Sparse Low-rank Multi-view Subspace Clustering with Consensus Anchors and Unified Bipartite Graph. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10325611">Paper</a>] </p>
+  </li>
+</ul> 
+
+<ul>
+  <li> 
+      <p align = "justify"> Miaomiao Li, Qing Liao, Yi Zhang, Chuan Ma, Zhe Liu, <b>Suyuan Liu</b>, Jianping Yin, and Xinwang Liu. Regularized Simple Multiple Kernel K-means with Kernel Average Alignment. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10195917/">Paper</a>] </p>
+  </li>
+</ul> 
+
+<ul>
+  <li> 
+      <p align = "justify"> Miaomiao Li, Yi Zhang, <b>Suyuan Liu</b>, Zhe Liu, and Xinzhong Zhu. Simple multiple kernel k-means with kernel weight regularization. Information Fusion. <b>(JCR Q1)</b> [<a href="https://www.sciencedirect.com/science/article/pii/S156625352300218X">Paper</a>] </p>
+  </li>
+</ul> 
+
+<ul>
+  <li> 
+      <p align = "justify"> <b>刘溯源</b>, 王思为, 唐厂, 周思航, 王思齐, 刘新旺. 基于加权锚点的多视图聚类算法. 自动化学报. <b>(CCF Rank A)</b> [<a href="http://aas.net.cn/cn/article/doi/10.16383/j.aas.c220531">Paper</a>], [<a href="https://github.com/Tracesource/MVC-WA">Code</a>] </p>
+  </li>
+</ul> 
+
+<ul>
+  <li> 
+      <p align = "justify"> <b>Suyuan Liu</b>, Xinwang Liu, Siwei Wang, Xin Niu, and En Zhu. Fast Incomplete Multi-View Clustering With View-Independent Anchors. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/9982492/">Paper</a>], [<a href="https://github.com/Tracesource/FIMVC-VIA">Code</a>] </p>
+  </li>
+</ul> 
+
+<ul>
+  <li> 
+      <p align = "justify"> Miaomiao Li, Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>. Parameter-Free and Scalable Incomplete Multi-view Clustering with Prototype Graph. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/9777866">Paper</a>], [<a href="https://github.com/wangsiwei2010/PSIMVC-PG">Code</a>] </p>
+  </li>
+</ul> 
+
+### Conferences:
+---
 <ul>
   <li> 
       <p align = "justify"> <b>Suyuan Liu</b>, Siwei Wang, Ke Liang, Junpu Zhang, Zhibin Dong, Tianrui Liu, En Zhu, Xinwang Liu, and Kunlun He. Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering. Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing System (NeurIPS), 2024. <b>(CCF Rank A)</b> [<a href="https://neurips.cc/virtual/2024/poster/96633">Paper</a>] </p>
@@ -44,25 +103,7 @@
 
 <ul>
     <li> 
-      <p align = "justify"> Jun Wang, Zhenglai Li, Chang Tang, <b>Suyuan Liu</b>, Xinhang Wan, and Xinwang Liu. Multiple Kernel Clustering with Adaptive Multi-scale Partition Selection. IEEE Transactions on Knowledge and Data Engineering (TKDE). <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10529609">Paper</a>], [<a href="https://github.com/WangJun2023/MPS">Code</a>] </p>
-    </li>
-</ul>
-
-<ul>
-    <li> 
-      <p align = "justify"> Huimin Ma, Siwei Wang, Junpu Zhang, Shengju Yu, <b>Suyuan Liu</b>, Xinwang Liu, and Kunlun He. Symmetric Multi-view Subspace Clustering with Automatic Neighbor Discovery. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10508192/">Paper</a>] </p>
-    </li>
-</ul>
-
-<ul>
-    <li> 
       <p align = "justify"> <b>Suyuan Liu</b>, Ke Liang, Zhibin Dong, Siwei Wang, Xihong Yang, Sihang Zhou, En Zhu, Xinwang Liu. Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering. Proceedings of the Thirty-Sixth IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024,  pages: 26151-26161. <b>(CCF Rank A)</b>  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Learn_from_View_Correlation_An_Anchor_Enhancement_Strategy_for_Multi-view_CVPR_2024_paper.pdf">Paper</a>], [<a href="https://github.com/Tracesource/AEVC">Code</a>] </p>
-    </li>
-</ul>
-
-<ul>
-    <li> 
-      <p align = "justify"> <b>Suyuan Liu</b>, Qing Liao, Siwei Wang, Xinwang Liu, and En Zhu. Robust and Consistent Anchor Graph Learning for Multi-view Clustering. IEEE Transactions on Knowledge and Data Engineering (TKDE). <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10440580/">Paper</a>], [<a href="https://github.com/Tracesource/RCAGL">Code</a>] </p>
     </li>
 </ul>
 
@@ -77,25 +118,6 @@
       <p align = "justify"> Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, <b>Suyuan Liu</b>, Zhao Lv, Pan Li, Miao Wang, and En Zhu. A Non-parametric Graph Clustering Framework for Multi-View Data. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, pages: 14017-14025. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29594">Paper</a>]</p>
     </li>
 </ul>
-
-### 2023
-<ul>
-  <li> 
-      <p align = "justify"> Shengju Yu, <b>Suyuan Liu</b>, Siwei Wang, Chang Tang, Zhigang Luo, and Xinwang Liu. Sparse Low-rank Multi-view Subspace Clustering with Consensus Anchors and Unified Bipartite Graph. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10325611">Paper</a>] </p>
-  </li>
-</ul> 
-
-<ul>
-  <li> 
-      <p align = "justify"> Miaomiao Li, Qing Liao, Yi Zhang, Chuan Ma, Zhe Liu, <b>Suyuan Liu</b>, Jianping Yin, and Xinwang Liu. Regularized Simple Multiple Kernel K-means with Kernel Average Alignment. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10195917/">Paper</a>] </p>
-  </li>
-</ul> 
-
-<ul>
-  <li> 
-      <p align = "justify"> Miaomiao Li, Yi Zhang, <b>Suyuan Liu</b>, Zhe Liu, and Xinzhong Zhu. Simple multiple kernel k-means with kernel weight regularization. Information Fusion. <b>(JCR Q1)</b> [<a href="https://www.sciencedirect.com/science/article/pii/S156625352300218X">Paper</a>] </p>
-  </li>
-</ul> 
 
 <ul>
   <li> 
@@ -115,7 +137,6 @@
   </li>
 </ul> 
 
-### 2022
 <ul>
   <li> 
       <p align = "justify"> Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, and En Zhu. Align then Fusion: Generalized Large-Scale Multi-View Clustering with Anchor Matching Correspondences. Proceedings of the Thirty-Sixth Annual Conference on Neural Information Processing System (NeurIPS), 2022, pages: 5882-5895. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2205.15075.pdf">Paper</a>], [<a href="https://github.com/wangsiwei2010/NeurIPS22-FMVACC">Code</a>] </p>
@@ -124,24 +145,6 @@
 
 <ul>
   <li> 
-      <p align = "justify"> <b>刘溯源</b>, 王思为, 唐厂, 周思航, 王思齐, 刘新旺. 基于加权锚点的多视图聚类算法. 自动化学报. <b>(CCF Rank A)</b> [<a href="http://aas.net.cn/cn/article/doi/10.16383/j.aas.c220531">Paper</a>], [<a href="https://github.com/Tracesource/MVC-WA">Code</a>] </p>
-  </li>
-</ul> 
-
-<ul>
-  <li> 
-      <p align = "justify"> <b>Suyuan Liu</b>, Xinwang Liu, Siwei Wang, Xin Niu, and En Zhu. Fast Incomplete Multi-View Clustering With View-Independent Anchors. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/9982492/">Paper</a>], [<a href="https://github.com/Tracesource/FIMVC-VIA">Code</a>] </p>
-  </li>
-</ul> 
-
-<ul>
-  <li> 
       <p align = "justify"> <b>Suyuan Liu*</b>, Siwei Wang*, Pei Zhang, Kai Xu, Xinwang Liu, Changwang Zhang, and Feng Gao. Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors. Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022, pages: 7576-7584. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/20723">Paper</a>], [<a href="https://github.com/Tracesource/EOMSC-CA">Code</a>] </p>
-  </li>
-</ul> 
-  
-<ul>
-  <li> 
-      <p align = "justify"> Miaomiao Li, Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>. Parameter-Free and Scalable Incomplete Multi-view Clustering with Prototype Graph. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/9777866">Paper</a>], [<a href="https://github.com/wangsiwei2010/PSIMVC-PG">Code</a>] </p>
   </li>
 </ul> 
