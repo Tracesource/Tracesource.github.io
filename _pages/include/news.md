@@ -1,6 +1,6 @@
 # News
-- *2025.02*:  Two paper have been accepted by CVPR 2025.
-- *2025.02*:  One paper has been accepted by ICDE Poster Track.
+- *[<font color="#FF0000">2025.02</font>]*:  Two paper have been accepted by CVPR 2025.
+- *[<font color="#FF0000">2025.02*</font>]:  One paper has been accepted by ICDE Poster Track.
 - *2025.01*:  One paper has been accepted by ICLR 2025.
 - *2025.01*:  One paper has been accepted by IEEE TKDE. 
 - *2024.09*:  Three paper have been accepted by NeurIPS 2024.
