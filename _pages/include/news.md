@@ -1,3 +1,20 @@
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# News
+- *2025.02*:  Two paper have been accepted by CVPR 2025.
+- *2025.02*:  One paper has been accepted by ICDE Poster Track.
+- *2025.01*:  One paper has been accepted by ICLR 2025.
+- *2025.01*:  One paper has been accepted by IEEE TKDE. 
+- *2024.09*:  Three paper have been accepted by NeurIPS 2024.
+- *2024.12*:  One paper has been accepted by AAAI 2025.
+- *2024.07*:  Three paper has been accepted by ACM MM 2024.
+- *2024.02*:  One paper has been accepted by CVPR 2024.
+- *2023.12*:  One paper has been accepted by AAAI 2024.
+- *2023.07*:  Three paper have been accepted by ACM MM 2023.
+- *2024.12*:  One paper has been accepted by AAAI 2025.
+- *2024.12*:  One paper has been accepted by AAAI 2025.
+- *2024.12*:  One paper has been accepted by AAAI 2025.
+- *2024.12*:  One paper has been accepted by AAAI 2025.
+- *2024.12*:  One paper has been accepted by AAAI 2025.
+- *2024.12*:  One paper has been accepted by AAAI 2025.
+- *2024.12*:  One paper has been accepted by AAAI 2025.
+- *2024.12*:  One paper has been accepted by AAAI 2025.
+- *2024.12*:  One paper has been accepted by AAAI 2025.
