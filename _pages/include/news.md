@@ -8,7 +8,6 @@ News
 - **[<font color="#FF0000">2024.07</font>]**  One paper has been accepted by IEEE TIP. 
 - **[<font color="#FF0000">2024.07</font>]**  Three papers has been accepted by ACM MM 2024.
 - **[<font color="#FF0000">2024.04</font>]**  One paper has been accepted by CVPR 2024.
-- **[<font color="#FF0000">2024.02</font>]**  One paper has been accepted by CVPR 2024.
 - **[<font color="#FF0000">2024.01</font>]**  One paper has been accepted by IEEE TKDE. 
 - **[<font color="#FF0000">2023.12</font>]**  One paper has been accepted by AAAI 2024.
 - **[<font color="#FF0000">2023.11</font>]**  One paper has been accepted by IEEE TNNLS.
