@@ -65,7 +65,7 @@ Journals
   </li>
 </ul> 
 -->
-cc
+
 Conferences
 ----
 <ul>
