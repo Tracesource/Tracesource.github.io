@@ -1,5 +1,6 @@
 News
 ======
+- **[<font color="#FF0000">2025.05</font>]**  Four papers have been accepted by ICML 2025.
 - **[<font color="#FF0000">2025.02</font>]**  Two papers have been accepted by CVPR 2025.
 - **[<font color="#FF0000">2025.02</font>]**  One paper has been accepted by ICDE Poster Track.
 - **[<font color="#FF0000">2025.01</font>]**  One paper has been accepted by ICLR 2025.
