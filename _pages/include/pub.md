@@ -9,7 +9,7 @@ Journals
     </li>
 </ul>
 
-<p>
+<!--
 <ul>
     <li> 
       <p align = "justify"> Jun Wang, Zhenglai Li, Chang Tang, <b>Suyuan Liu</b>, Xinhang Wan, and Xinwang Liu. Multiple Kernel Clustering with Adaptive Multi-scale Partition Selection. <font color="#2818200">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A, JCR Q1) [<a href="https://ieeexplore.ieee.org/abstract/document/10529609">Paper</a>], [<a href="https://github.com/WangJun2023/MPS">Code</a>] </p>
@@ -22,7 +22,7 @@ Journals
       <p align = "justify"> Huimin Ma, Siwei Wang, Junpu Zhang, Shengju Yu, <b>Suyuan Liu</b>, Xinwang Liu, and Kunlun He. Symmetric Multi-view Subspace Clustering with Automatic Neighbor Discovery. <font color="#2818200"> IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B, JCR Q1) [<a href="https://ieeexplore.ieee.org/document/10508192/">Paper</a>] </p>
     </li>
 </ul>
-</p>
+-->
     
 <ul>
     <li> 
@@ -36,7 +36,7 @@ Journals
   </li>
 </ul> 
 
-<p>
+<!--
 <ul>
   <li> 
       <p align = "justify"> Miaomiao Li, Qing Liao, Yi Zhang, Chuan Ma, Zhe Liu, <b>Suyuan Liu</b>, Jianping Yin, and Xinwang Liu. Regularized Simple Multiple Kernel K-means with Kernel Average Alignment. <font color="#2818200">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B, JCR Q1) [<a href="https://ieeexplore.ieee.org/abstract/document/10195917/">Paper</a>] </p>
@@ -48,7 +48,7 @@ Journals
       <p align = "justify"> Miaomiao Li, Yi Zhang, <b>Suyuan Liu</b>, Zhe Liu, and Xinzhong Zhu. Simple multiple kernel k-means with kernel weight regularization. <font color="#2818200"> <b>Information Fusion</b></font>. (JCR Q1) [<a href="https://www.sciencedirect.com/science/article/pii/S156625352300218X">Paper</a>] </p>
   </li>
 </ul> 
-</p>
+-->
 
 <ul>
   <li> 
@@ -61,16 +61,16 @@ Journals
       <p align = "justify"> <b>Suyuan Liu</b>, Xinwang Liu, Siwei Wang, Xin Niu, and En Zhu. Fast Incomplete Multi-View Clustering With View-Independent Anchors. <font color="#2818200"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B, JCR Q1) [<a href="https://ieeexplore.ieee.org/document/9982492/">Paper</a>], [<a href="https://github.com/Tracesource/FIMVC-VIA">Code</a>] </p>
   </li>
 </ul> 
-<p>
+<!--
 <ul>
   <li> 
       <p align = "justify"> Miaomiao Li, Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>. Parameter-Free and Scalable Incomplete Multi-view Clustering with Prototype Graph. <font color="#2818200">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B, JCR Q1) [<a href="https://ieeexplore.ieee.org/abstract/document/9777866">Paper</a>], [<a href="https://github.com/wangsiwei2010/PSIMVC-PG">Code</a>] </p>
   </li>
 </ul> 
-</p>
+-->
 Conferences
 ---
-<p>
+<!--
 <ul>
   <li> 
       <p align = "justify"> Zhibin Dong, Siwei Wang, Meng Liu, Ke Liang, Yi Zhang, <b>Suyuan Liu</b>, Jiaqi Jin, Xinwang Liu, En Zhu. Enhanced then Progressive Fusion with View Graph for Multi-View Clustering. <font color="#2818200">Proceedings of the Thirty-Seventh IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</font>, 2025. (CCF Rank A) </p>
@@ -88,7 +88,7 @@ Conferences
       <p align = "justify"> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, <b>Suyuan Liu</b>, Qian Qu, Renxiang Guan, Huiying Xu, Xinwang Liu. Incremental Nyström-based Multiple Kernel Clustering. <font color="#2818200">Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</font>, 2025. (CCF Rank A) </p>
   </li>
 </ul> 
-</p>
+-->
 
 <ul>
   <li> 
@@ -96,7 +96,7 @@ Conferences
   </li>
 </ul> 
 
-<p>
+<!--
 <ul>
   <li> 
       <p align = "justify"> Fangdi Wang, Siwei Wang, Jiaqi Jin, jingtao Hu, <b>Suyuan Liu</b>, Xihong Yang, Xinwang Liu, and En Zhu. Evaluate then cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering. <font color="#2818200">Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing System (<b>NeurIPS</b>)</font>, 2024. (CCF Rank A) [<a href="https://neurips.cc/virtual/2024/poster/93062">Paper</a>] </p>
@@ -120,7 +120,7 @@ Conferences
       <p align = "justify"> Huimin Ma, Siwei Wang, Shengju Yu, <b>Suyuan Liu</b>, Jun-Jie Huang, Huijun Wu, Xinwang Liu, and En Zhu. Automatic and Aligned Anchor Learning Strategy for Multi-View Clustering. <font color="#2818200"> Proceedings of the 32st ACM International Conference on Multimedia (<b>ACM MM</b>)</font>, 2024. (CCF Rank A) [<a href="https://openreview.net/forum?id=TKRqWQVawP">Paper</a>]</p>
     </li>
 </ul>
-</p>
+-->
 
 <ul>
     <li> 
@@ -140,7 +140,7 @@ Conferences
     </li>
 </ul>
 
-<p>
+<!--
 
 <ul>
     <li> 
@@ -153,7 +153,7 @@ Conferences
       <p align = "justify">Yi Wen, Siwei Wang, Ke Liang, Weixuan Liang, Xinhang Wan, Xinwang Liu, <b>Suyuan Liu</b>, Jiyuan Liu, and En Zhu. Scalable Incomplete Multi-View Clustering with Structure Alignment. <font color="#2818200"> Proceedings of the 31st ACM International Conference on Multimedia (<b>ACM MM</b>)</font>, 2023, pages: 3031-3040. (CCF Rank A) [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611981">Paper</a>], [<a href="https://github.com/wenyiwy99/SIMVC-SA">Code</a>] </p>
   </li>
 </ul> 
-</p>
+-->
   
 <ul>
   <li> 
@@ -161,13 +161,13 @@ Conferences
   </li>
 </ul> 
 
-<p>
+<!--
 <ul>
   <li> 
       <p align = "justify">  Xihong Yang, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, Yi Wen, <b>Suyuan Liu</b>, Sihang Zhou, Xinwang Liu, and En Zhu. DealMVC: Dual Contrastive Calibration for Multi-view Clustering. <font color="#2818200"> Proceedings of the 31st ACM International Conference on Multimedia (<b>ACM MM</b>)</font>, 2023, pages: 337-346. (CCF Rank A) [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611951">Paper</a>], [<a href="https://github.com/xihongyang1999/DealMVC">Code</a>] </p>
   </li>
 </ul> 
-</p>
+-->
 
 <ul>
   <li> 
