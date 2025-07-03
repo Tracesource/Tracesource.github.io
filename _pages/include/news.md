@@ -1,5 +1,7 @@
 News
 ======
+<div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #eaeaea; background-color: #fdfdfd;">
+  <ul style="margin: 0; padding-left: 1.2em;">
 - **[<font color="#FF0000">2025.05</font>]**  Four papers have been accepted by ICML 2025.
 - **[<font color="#FF0000">2025.02</font>]**  Two papers have been accepted by CVPR 2025.
 - **[<font color="#FF0000">2025.02</font>]**  One paper has been accepted by ICDE Poster Track.
@@ -16,4 +18,6 @@ News
 - **[<font color="#FF0000">2022.11</font>]**  One paper has been accepted by IEEE TNNLS.
 - **[<font color="#FF0000">2022.09</font>]**  One paper has been accepted by NeurIPS 2022.
 - **[<font color="#FF0000">2021.12</font>]**  One paper has been accepted by AAAI 2022.
+  </ul>
+</div>
 
