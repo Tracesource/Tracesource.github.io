@@ -70,7 +70,7 @@ Conferences
 ----
 <ul>
   <li> 
-      <p align = "justify"> <b>Suyuan Liu</b>,Hao Yu, Hao Tan, Ke Liang, Siwei Wang, Shengju Yu, En Zhu, Xinwang Liu. Efficient Federated Incomplete Multi-View Clustering. <font color="#2818200">The Forty-second International Conference on Machine Learning (<b>ICML</b>)</font>, 2025. (CCF Rank A) </p>
+      <p align = "justify"> <b>Suyuan Liu</b>,Hao Yu, Hao Tan, Ke Liang, Siwei Wang, Shengju Yu, En Zhu, Xinwang Liu. Efficient Federated Incomplete Multi-View Clustering. <font color="#2818200">The Forty-second International Conference on Machine Learning (<b>ICML</b>)</font>, 2025. (CCF Rank A) [<a href="https://openreview.net/pdf?id=sylDbssCU9">Paper</a>] [<a href="https://github.com/Tracesource/EFIMVC">Code</a>]</p>
   </li>
 </ul> 
 
