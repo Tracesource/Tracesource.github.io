@@ -70,7 +70,7 @@ Conferences
 ----
 <ul>
   <li> 
-      <p align = "justify"> <b>Suyuan Liu</b>,Hao Yu, Hao Tan, Ke Liang, Siwei Wang, Shengju Yu, En Zhu, Xinwang Liu. Efficient Federated Incomplete Multi-View Clustering. <font color="#2818200">The Forty-second International Conference on Machine Learning (<b>ICML</b>)</font>, 2025. (CCF Rank A) [<a href="https://openreview.net/pdf?id=sylDbssCU9">Paper</a>] [<a href="https://github.com/Tracesource/EFIMVC">Code</a>]</p>
+      <p align = "justify"> <b>Suyuan Liu</b>,Hao Yu, Hao Tan, Ke Liang, Siwei Wang, Shengju Yu, En Zhu, Xinwang Liu. Efficient Federated Incomplete Multi-View Clustering. <font color="#2818200">The Forty-second International Conference on Machine Learning (<b>ICML</b>)</font>, 2025. (CCF Rank A) [<a href="https://openreview.net/pdf?id=sylDbssCU9">Paper</a>], [<a href="https://github.com/Tracesource/EFIMVC">Code</a>]</p>
   </li>
 </ul> 
 
@@ -100,7 +100,7 @@ Conferences
 
 <ul>
     <li> 
-      <p align = "justify"> Dayu Hu*, <b>Suyuan Liu*</b>, Jun Wang, Junpu Zhang, Siwei Wang, Xingchen Hu, Xinzhong Zhu, Chang Tang, and Xinwang Liu. Reliable Attribute-missing Multi-view Clustering with Instance-level and Feature-level Cooperative Imputation. <font color="#2818200"> Proceedings of the 32st ACM International Conference on Multimedia (<b>ACM MM</b>)</font>, 2024. (CCF Rank A) [<a href="https://openreview.net/forum?id=peyB8AbCdY">Paper</a>]</p>
+      <p align = "justify"> Dayu Hu*, <b>Suyuan Liu*</b>, Jun Wang, Junpu Zhang, Siwei Wang, Xingchen Hu, Xinzhong Zhu, Chang Tang, and Xinwang Liu. Reliable Attribute-missing Multi-view Clustering with Instance-level and Feature-level Cooperative Imputation. <font color="#2818200"> Proceedings of the 32st ACM International Conference on Multimedia (<b>ACM MM</b>)</font>, 2024. (CCF Rank A) [<a href="https://openreview.net/forum?id=peyB8AbCdY">Paper</a>], [<a href="https://github.com/DayuHuu/scUNC">Code</a>]</p>
     </li>
 </ul>
 
