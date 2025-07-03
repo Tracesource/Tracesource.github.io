@@ -2,6 +2,7 @@ News
 ======
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #eaeaea; background-color: #fdfdfd;">
   <ul style="margin: 0; padding-left: 1.2em;">
+<li><strong>2025.05:</strong>  One paper have been accepted by ICCV 2025.</li>
 <li><strong>2025.05:</strong>  Four papers have been accepted by ICML 2025.</li>
 <li><strong>2025.02:</strong>  Two papers have been accepted by CVPR 2025.</li>
 <li><strong>2025.02:</strong>  One paper has been accepted by ICDE Poster Track.</li>
